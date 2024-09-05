@@ -1,0 +1,27 @@
+[
+    {
+
+        "title" : "HTML",
+        "imgSrc" : "Skill/html-logo.png"
+    },
+    {
+
+        "title" : "CSS",
+        "imgSrc" : "Skill/CSS-Logo.png"
+    },
+    {
+
+        "title" : "Bootstrap",
+        "imgSrc" : "Skill/Bootstrap.png"
+    },
+    {
+
+        "title" : "JavaScript",
+        "imgSrc" : "Skill/JavaScript-Logo.png"
+    },
+    {
+
+        "title" : "React JS",
+        "imgSrc" : "Skill/react.png"
+    }
+]

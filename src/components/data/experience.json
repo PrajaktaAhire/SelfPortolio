@@ -1,0 +1,28 @@
+[
+    {
+        "id" : 1,
+        "role" : "Web Analyst",
+        "Organization" : "Deloitte",
+        "startDate" : "Dec-2021",
+        "endDate" : "Present",
+        "Location" : "Hyderabad",
+        "Experience" : [
+            "Internal Website",
+            "Worked with Salesforce Team"
+        ],
+        "imgSrc" : "/Company/Deloitte-Logo-black-02.png"
+    },
+    {
+        "id" : 2,
+        "role" : "Web Analyst",
+        "Organization" : "AffinityX",
+        "startDate" : "Mar-2019",
+        "endDate" : "May-2020",
+        "Location" : "Pune",
+        "Experience" : [
+            "Educational Website",
+            "Worked with Design Team"
+        ],
+        "imgSrc" : "Company/Deloitte-Logo-black-02.png"
+    }
+]
